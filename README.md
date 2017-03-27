@@ -9,6 +9,8 @@ https://github.com/SheldonWangRJT/iOS-TableView-Load-with-Animation-Demo.git
 
 For today's project, the complete project repository is available here:
 https://github.com/SheldonWangRJT/iOS-TableView-Display-Rows-with-Animations.git
+The video tutorial is here:
+https://www.youtube.com/watch?v=tNACwN73784
 
 For more info, visit my blog website: http://iosetutorials.com
 
