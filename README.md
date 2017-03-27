@@ -21,6 +21,6 @@ To donate to me, please use the following Paypal link:
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9VEZKN9746VCS
 
 Demos here:
-![alt tag](https://github.com/SheldonWangRJT/iOS-TableView-Display-Rows-with-Animations/demo/x2.gif)
-![alt tag](https://github.com/SheldonWangRJT/iOS-TableView-Display-Rows-with-Animations/demo/y2.gif)
-![alt tag](https://github.com/SheldonWangRJT/iOS-TableView-Display-Rows-with-Animations/demo/z2.gif)
+![](https://github.com/SheldonWangRJT/iOS-TableView-Display-Rows-with-Animations/demo/x2.gif)
+![](https://github.com/SheldonWangRJT/iOS-TableView-Display-Rows-with-Animations/demo/y2.gif)
+![](https://github.com/SheldonWangRJT/iOS-TableView-Display-Rows-with-Animations/demo/z2.gif)
